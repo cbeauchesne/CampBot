@@ -14,3 +14,7 @@ Bot framework for camptocamp.org
 ## Documentation
 
 [Read the docs!](https://campbot.readthedocs.io/)
+
+## Code source
+
+Moved to [gitlab](https://gitlab.com/cbeauchesne/CampBot)
